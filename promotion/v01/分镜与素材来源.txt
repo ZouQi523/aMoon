@@ -1,0 +1,30 @@
+《重返月球2026》预告片 v01 · 本地审片
+79.5 秒，1920 × 1080，24 fps。英文合成旁白与电台对白，内嵌英中字幕。两版的区别集中在月面拉远段的朗诵和诗歌署名。
+
+时间线
+00:00–00:07　头盔视角走向鹰号。以靴底传来的低频振动和呼吸开场。哥伦比亚号上留守的人先开口。
+00:07–00:27　原镜头从头盔后退出，宇航员、鹰号、静海依次缩小，直到看清整个月球。游戏原曲在第 8.6 秒进入；第一句诗让给宇航员缩成小点的时刻，第二句落在月面曲率逐渐清楚的时刻。
+00:27–00:34　阿波罗 11 号月面靴印档案照片，小幅推近。
+00:34–00:42　阿波罗 15 号的锤子与羽毛，和游戏中的石块与羽毛并排播放。两个动作都保留各自的速度。最后回到头盔全幅画面。
+00:42–00:48　月球车跟拍，经过撞击坑。给配乐单独六秒。
+00:48–01:00　哥伦比亚号指令舱内。镜头从舷窗低头看姿态仪和数字显示，再抬头看窗外的鹰号。鹰号报告已目视。
+01:00–01:12　舱外看两船接近、探杆捕获、锁定。轻微舱体传导声后，在电台里听到“Hard dock. Welcome back aboard.”
+01:12–01:19.5　游戏中的月球与片名。留出最后的乐句和渐隐。
+
+素材与版本
+游戏场景取自本项目 index.html，由本地录制副本按固定时间步演算。调整了起始位置、镜头距离和观察方向。落体、轮迹、指令舱读表、捕获及锁定均由游戏绘制。脚步、呼吸、无线电开关及锁闩为后期拟音。音乐取自同一份游戏的 makeDistanceScore，以原曲乐器和每分钟 55 拍离线渲染。
+英文合成声使用 Kokoro 的 bm_george 和 af_heart。独白与电台文字为本片创作。对白并非宇航员历史录音。
+《良夜》为狄兰·托马斯 Do not go gentle into that good night 的两句试配，当前按内部审片处理。诗歌出处及版权标注见 https://poets.org/poem/do-not-go-gentle-good-night
+《老天文学家》节选自 Sarah Williams，The Old Astronomer，1868 年初版 Twilight Hours。采用初版的 truly。原文已进入公版。https://en.wikisource.org/wiki/Twilight_Hours_(1868)/The_Old_Astronomer
+逐句配音对照和时间保存在 cues.json，两版各自有 SRT 文件。
+
+档案素材
+1. Apollo 11 Bootprint，AS11-40-5878。照片署名 NASA / Edwin “Buzz” Aldrin。裁切并做缓慢推近。https://science.nasa.gov/resource/apollo-11-bootprint/
+2. The Apollo 15 Hammer-Feather Drop，NASA，1971 年月面电视记录。采用官方视频从约 59.05 秒开始的六秒片段，保留正常速度，静音，配本片字幕。https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/
+3. NASA 对政府影像、机构标识、可识别人物与商业宣传分别有使用说明。商业宣传时需另行核实人物、用途与发行地区。本项目只输出本地审片。https://www.nasa.gov/nasa-brand-center/advertising-guidelines/
+
+游戏画面中的相关署名
+阿姆斯特朗 A7-L 宇航服扫描来自史密森尼国家航空航天博物馆。馆藏页标明个人、教育及非商业用途。商业推广前应确认使用许可，或替换所涉资产及镜头。https://3d.si.edu/object/nasm_A19730040000
+舱外手套模型 Apollo 11 Lunar Extravehicular Gloves，Andriano Milanovic。游戏调整了裁切、左右手、绑定和材质。https://sketchfab.com/3d-models/apollo-11-lunar-extravehicular-gloves-f7df16f14b6a44b49753ce349c2d646e
+手套使用 Creative Commons Attribution 4.0 International。https://creativecommons.org/licenses/by/4.0/
+地形、舱内扫描、贴图和其他资产的来源见游戏内飞行手册。

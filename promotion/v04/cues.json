@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dustline",
+    "start": 55.45,
+    "en": "Look down. A footprint in the dust.",
+    "zh": "低头看。月尘里，有一枚脚印。",
+    "voice": "bm_george",
+    "duration": 2.709
+  },
+  {
+    "id": "onemark",
+    "start": 61.6,
+    "en": "It took thousands of hands to leave that one mark.",
+    "zh": "留下这一枚脚印，靠的是千千万万双手。",
+    "voice": "bm_george",
+    "duration": 3.456
+  },
+  {
+    "id": "call",
+    "start": 96.7,
+    "en": "Columbia, Eagle. Are you still there?",
+    "zh": "哥伦比亚号，这里是鹰号。你还在吗？",
+    "voice": "af_heart",
+    "duration": 2.221
+  },
+  {
+    "id": "answer",
+    "start": 104.5,
+    "en": "Still here, Eagle.",
+    "zh": "我一直都在，鹰号。",
+    "voice": "bm_george",
+    "duration": 1.707
+  },
+  {
+    "id": "lighton",
+    "start": 109.65,
+    "en": "I left the light on for you.",
+    "zh": "我给你们留着灯。",
+    "voice": "bm_george",
+    "duration": 2.048
+  }
+]

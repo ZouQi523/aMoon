@@ -1,0 +1,106 @@
+[
+  {
+    "id": "listen",
+    "start": 1.65,
+    "en": "I knew their footsteps by the sound of their breathing.",
+    "zh": "听着他们的呼吸，我就知道他们又迈出了一步。",
+    "voice": "bm_george",
+    "duration": 3.499
+  },
+  {
+    "id": "dark",
+    "start": 10.65,
+    "en": "Though my soul may set in darkness,",
+    "zh": "纵使我的灵魂沉入黑暗，",
+    "voice": "bm_george",
+    "duration": 2.96
+  },
+  {
+    "id": "light",
+    "start": 14.45,
+    "en": "it will rise in perfect light.",
+    "zh": "它终将在澄澈的光中升起。",
+    "voice": "bm_george",
+    "duration": 2.645
+  },
+  {
+    "id": "stars",
+    "start": 19.1,
+    "en": "I have loved the stars too truly",
+    "zh": "我如此真切地爱过繁星，",
+    "voice": "bm_george",
+    "duration": 2.603
+  },
+  {
+    "id": "night",
+    "start": 22.85,
+    "en": "to be fearful of the night.",
+    "zh": "又怎会畏惧黑夜。",
+    "voice": "bm_george",
+    "duration": 2.517
+  },
+  {
+    "id": "print",
+    "start": 28.1,
+    "en": "Someone stood here once.",
+    "zh": "曾经，有人站在这里。",
+    "voice": "bm_george",
+    "duration": 1.856
+  },
+  {
+    "id": "drop",
+    "start": 35.25,
+    "en": "Ready? Let go.",
+    "zh": "准备好了？松手。",
+    "voice": "af_heart",
+    "duration": 1.258
+  },
+  {
+    "id": "again",
+    "start": 48.65,
+    "en": "Alone up here, I kept one eye on the needles.",
+    "zh": "独自留在舱里，我的目光总回到那些指针上。",
+    "voice": "bm_george",
+    "duration": 3.243
+  },
+  {
+    "id": "contact",
+    "start": 57.2,
+    "en": "Columbia, this is Eagle. We have you in sight.",
+    "zh": "哥伦比亚号，这里是鹰号。我们看见你了。",
+    "voice": "af_heart",
+    "duration": 2.603
+  },
+  {
+    "id": "latch",
+    "start": 67.25,
+    "en": "Hard dock.",
+    "zh": "对接锁定。",
+    "voice": "bm_george",
+    "duration": 1.045
+  },
+  {
+    "id": "welcome",
+    "start": 69.05,
+    "en": "Welcome back aboard.",
+    "zh": "欢迎归舱。",
+    "voice": "bm_george",
+    "duration": 1.92
+  },
+  {
+    "id": "gentle",
+    "start": 11.6,
+    "en": "Do not go gentle into that good night.",
+    "zh": "不要温顺地走进那个良夜。",
+    "voice": "bm_george",
+    "duration": 3.349
+  },
+  {
+    "id": "rage",
+    "start": 20.75,
+    "en": "Rage, rage against the dying of the light.",
+    "zh": "怒吼吧，怒吼吧，抗拒那渐熄的光。",
+    "voice": "bm_george",
+    "duration": 4.16
+  }
+]

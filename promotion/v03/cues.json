@@ -1,0 +1,74 @@
+[
+  {
+    "id": "year",
+    "start": 5.3,
+    "en": "In twenty twenty-six, I built a way back to the Moon.",
+    "zh": "2026 年，我做了这个游戏，想再回一次月球。",
+    "voice": "bm_george",
+    "duration": 3.861
+  },
+  {
+    "id": "quiet",
+    "start": 10.7,
+    "en": "I wanted somewhere quiet enough to see home.",
+    "zh": "我想找个安静的地方，回头看看家。",
+    "voice": "bm_george",
+    "duration": 2.859
+  },
+  {
+    "id": "blue",
+    "start": 48.25,
+    "en": "Everyone I love lives on that fleck of blue.",
+    "zh": "我爱的人，都住在那一点蓝色里。",
+    "voice": "bm_george",
+    "duration": 3.667
+  },
+  {
+    "id": "boots",
+    "start": 55.9,
+    "en": "Look down. Just one pair of boots.",
+    "zh": "低头看，只有一双靴子。",
+    "voice": "bm_george",
+    "duration": 2.645
+  },
+  {
+    "id": "hands",
+    "start": 61.6,
+    "en": "It took thousands of hands to get them here.",
+    "zh": "把这双靴子送到这里的，是千千万万双手。",
+    "voice": "bm_george",
+    "duration": 3.072
+  },
+  {
+    "id": "screen",
+    "start": 77.2,
+    "en": "Once, the whole world leaned toward a little screen.",
+    "zh": "曾经，全世界的人都凑近了一方小小的荧屏。",
+    "voice": "bm_george",
+    "duration": 3.435
+  },
+  {
+    "id": "feeling",
+    "start": 84.8,
+    "en": "I came back for that feeling.",
+    "zh": "我想找回的，就是那种在一起的感觉。",
+    "voice": "bm_george",
+    "duration": 2.069
+  },
+  {
+    "id": "farther",
+    "start": 91.7,
+    "en": "I still believe we can go farther together.",
+    "zh": "我依然相信，我们可以一起走得更远。",
+    "voice": "bm_george",
+    "duration": 3.37
+  },
+  {
+    "id": "sail",
+    "start": 126.35,
+    "en": "From our blue Earth, we sail into eternity.",
+    "zh": "以蓝色出发，驶向永恒。",
+    "voice": "bm_george",
+    "duration": 3.435
+  }
+]
