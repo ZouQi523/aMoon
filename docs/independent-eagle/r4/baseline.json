@@ -1,0 +1,13 @@
+{
+  "scope": "Actual rig key poses, hatch/porch ONLY. No ladder rhythm. Candidate pending verification.",
+  "protectedSHA256": {
+    "index.html": "ea644b64430c0108c86adca450f1abfe7187d5fd08e2787977434926dc75f3fe",
+    "assets/models/independent-eagle/front-cabin.json": "a8f1566f4a308ddf46b7df6b9b703b405e72bf2ab680bcd2495045bb8a964c6d",
+    "assets/models/independent-eagle/front-cabin.glb": "047c5bd73f864a55b9d233c9de77002630b7eb9aefdda87a95e8e0cbe7ac925c",
+    "assets/models/independent-eagle/front-cabin.blend": "bab651acaa9d3d663b41a56365748f1ad791520e67ef241d50bce6dc0c8934ce",
+    "scripts/independent-eagle/review.js": "e59a75c0394672f3ffea1fb3caa69ad8c1dc2ed651044458539c17681ef94295",
+    "scripts/independent-eagle/add_lpd.py": "7c91d4e67fc28b7e5fa5ec1fe7ff607e1c44c7db5379f7dcf12b276b53c17781",
+    "scripts/independent-eagle/egress_review.js": "8da6dbdb98e3aab6f81c93394e436d0f1c85d215bebf43c4f9c1d51fb8b3dd7d",
+    "scripts/independent-eagle/build_egress_preview.py": "4b3755bc49127764f7932fc5f60cc93b52f8bcd7ef0ddaf4937b538d4714248d"
+  }
+}

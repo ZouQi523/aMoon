@@ -1,0 +1,547 @@
+{
+  "url": "local R4 production",
+  "start": {
+    "phase": "review",
+    "direction": "outbound",
+    "ladderTime": 0,
+    "poseParameter": 0,
+    "cycleTime": 0,
+    "hatchOpen": 0,
+    "bodyPosition": [
+      0.4,
+      3.2010747760603286,
+      0.7729820855727834
+    ],
+    "astronautRoot": [
+      0,
+      0,
+      0
+    ],
+    "bodyEuler": [
+      0.05,
+      0,
+      0,
+      "XYZ"
+    ],
+    "visible": true,
+    "contacts": [
+      {
+        "requested": [
+          0.511,
+          3.256,
+          0.73
+        ],
+        "reach": 0.677127023849857,
+        "limit": 0.74
+      },
+      {
+        "requested": [
+          0.289,
+          3.256,
+          0.73
+        ],
+        "reach": 0.677127023849857,
+        "limit": 0.74
+      }
+    ],
+    "handContacts": [
+      {
+        "target": [
+          0.29,
+          4.34,
+          0.65
+        ],
+        "actual": [
+          0.2899999999999997,
+          4.34,
+          0.6500000000000002
+        ],
+        "reachError": 3.554447978966673e-16,
+        "minSupportGap": 0.6118326700856338,
+        "correction": 0
+      },
+      {
+        "target": [
+          0.22,
+          4.34,
+          0.65
+        ],
+        "actual": [
+          0.21999999999999997,
+          4.339999999999998,
+          0.6500000000000002
+        ],
+        "reachError": 1.7903959895615594e-15,
+        "minSupportGap": 0.5634069678524147,
+        "correction": 0
+      }
+    ]
+  },
+  "played": {
+    "phase": "passage",
+    "direction": "outbound",
+    "ladderTime": 0.342375,
+    "poseParameter": 0.342375,
+    "cycleTime": 0.45649999999999996,
+    "hatchOpen": 0.0778821262602539,
+    "bodyPosition": [
+      0.4,
+      3.2010747760603286,
+      0.7729820855727834
+    ],
+    "astronautRoot": [
+      0,
+      0,
+      0
+    ],
+    "bodyEuler": [
+      0.05,
+      0,
+      0,
+      "XYZ"
+    ],
+    "visible": true,
+    "contacts": [
+      {
+        "requested": [
+          0.511,
+          3.256,
+          0.73
+        ],
+        "reach": 0.677127023849857,
+        "limit": 0.74
+      },
+      {
+        "requested": [
+          0.289,
+          3.256,
+          0.73
+        ],
+        "reach": 0.677127023849857,
+        "limit": 0.74
+      }
+    ],
+    "handContacts": [
+      {
+        "target": [
+          0.29,
+          4.34,
+          0.65
+        ],
+        "actual": [
+          0.2899999999999997,
+          4.34,
+          0.6500000000000002
+        ],
+        "reachError": 3.554447978966673e-16,
+        "minSupportGap": 0.6118326700856338,
+        "correction": 0
+      },
+      {
+        "target": [
+          0.21999999999999997,
+          4.34,
+          0.65
+        ],
+        "actual": [
+          0.21999999999999992,
+          4.34,
+          0.6500000000000004
+        ],
+        "reachError": 3.3766115072321297e-16,
+        "minSupportGap": 0.5634069678524147,
+        "correction": 0
+      }
+    ]
+  },
+  "key": {
+    "phase": "passage",
+    "direction": "inbound",
+    "ladderTime": 0.22484999999999997,
+    "poseParameter": 0.22484999999999997,
+    "cycleTime": 0.29979999999999996,
+    "hatchOpen": 0.03507617714146874,
+    "bodyPosition": [
+      0.4000000000000001,
+      3.2010747760603286,
+      0.7729820855727835
+    ],
+    "astronautRoot": [
+      0,
+      0,
+      0
+    ],
+    "bodyEuler": [
+      0.05,
+      0,
+      0,
+      "XYZ"
+    ],
+    "visible": true,
+    "contacts": [
+      {
+        "requested": [
+          0.511,
+          3.256,
+          0.73
+        ],
+        "reach": 0.6771270238498561,
+        "limit": 0.74
+      },
+      {
+        "requested": [
+          0.28900000000000003,
+          3.256,
+          0.73
+        ],
+        "reach": 0.6771270238498561,
+        "limit": 0.74
+      }
+    ],
+    "handContacts": [
+      {
+        "target": [
+          0.29,
+          4.340000000000001,
+          0.65
+        ],
+        "actual": [
+          0.28999999999999987,
+          4.340000000000001,
+          0.65
+        ],
+        "reachError": 1.1102230246251565e-16,
+        "minSupportGap": 0.6118326700856356,
+        "correction": 0
+      },
+      {
+        "target": [
+          0.22,
+          4.340000000000001,
+          0.65
+        ],
+        "actual": [
+          0.21999999999999992,
+          4.340000000000001,
+          0.6499999999999998
+        ],
+        "reachError": 2.3714374201337736e-16,
+        "minSupportGap": 0.5634069678524174,
+        "correction": 0
+      }
+    ]
+  },
+  "endUI": {
+    "phase": "porch",
+    "direction": "inbound",
+    "ladderTime": 16.2,
+    "poseParameter": 16.2,
+    "cycleTime": 21.599999999999998,
+    "hatchOpen": 1,
+    "bodyPosition": [
+      -1.0408340855860843e-16,
+      3.442022402960694,
+      3.516457526302371
+    ],
+    "astronautRoot": [
+      0,
+      0,
+      0
+    ],
+    "bodyEuler": [
+      1.48,
+      0,
+      0,
+      "XYZ"
+    ],
+    "visible": true,
+    "contacts": [
+      {
+        "requested": [
+          0.14,
+          3.1825,
+          1.98
+        ],
+        "reach": 0.6497093596208027,
+        "limit": 0.74
+      },
+      {
+        "requested": [
+          -0.14,
+          3.1825,
+          1.98
+        ],
+        "reach": 0.6497093596208033,
+        "limit": 0.74
+      }
+    ],
+    "handContacts": [
+      {
+        "target": [
+          0.4353532541629286,
+          3.65201055230163,
+          1.88
+        ],
+        "actual": [
+          0.43535325416292864,
+          3.6520105523016304,
+          1.8800000000000003
+        ],
+        "reachError": 6.304854800243424e-16,
+        "minSupportGap": 0.0030667846654112325,
+        "correction": 0.06012292850652179
+      },
+      {
+        "target": [
+          -0.43569746905815565,
+          3.635734807173502,
+          1.88
+        ],
+        "actual": [
+          -0.43569746905815554,
+          3.635734807173502,
+          1.8800000000000006
+        ],
+        "reachError": 6.753223014464259e-16,
+        "minSupportGap": 0.002874429642451215,
+        "correction": 0.042929196491870214
+      }
+    ]
+  },
+  "closed": {
+    "phase": "aboard",
+    "direction": "inbound",
+    "ladderTime": 0,
+    "poseParameter": 0,
+    "cycleTime": 0,
+    "hatchOpen": 0,
+    "bodyPosition": [
+      0.4000000000000001,
+      3.2010747760603286,
+      0.7729820855727835
+    ],
+    "astronautRoot": [
+      0,
+      0,
+      0
+    ],
+    "bodyEuler": [
+      0.05,
+      0,
+      0,
+      "XYZ"
+    ],
+    "visible": true,
+    "contacts": [
+      {
+        "requested": [
+          0.511,
+          3.256,
+          0.73
+        ],
+        "reach": 0.6771270238498561,
+        "limit": 0.74
+      },
+      {
+        "requested": [
+          0.289,
+          3.256,
+          0.73
+        ],
+        "reach": 0.6771270238498561,
+        "limit": 0.74
+      }
+    ],
+    "handContacts": [
+      {
+        "target": [
+          0.29,
+          4.34,
+          0.65
+        ],
+        "actual": [
+          0.28999999999999987,
+          4.340000000000001,
+          0.65
+        ],
+        "reachError": 8.95090418262362e-16,
+        "minSupportGap": 0.6118326700856356,
+        "correction": 0
+      },
+      {
+        "target": [
+          0.22,
+          4.34,
+          0.65
+        ],
+        "actual": [
+          0.21999999999999992,
+          4.340000000000001,
+          0.6499999999999998
+        ],
+        "reachError": 9.192921513844874e-16,
+        "minSupportGap": 0.5634069678524174,
+        "correction": 0
+      }
+    ]
+  },
+  "out": {
+    "phase": "porch",
+    "direction": "outbound",
+    "ladderTime": 16.2,
+    "poseParameter": 16.2,
+    "cycleTime": 21.599999999999998,
+    "hatchOpen": 1,
+    "bodyPosition": [
+      -1.0408340855860843e-16,
+      3.442022402960694,
+      3.516457526302371
+    ],
+    "astronautRoot": [
+      0,
+      0,
+      0
+    ],
+    "bodyEuler": [
+      1.48,
+      0,
+      0,
+      "XYZ"
+    ],
+    "visible": true,
+    "contacts": [
+      {
+        "requested": [
+          0.14,
+          3.1825,
+          1.98
+        ],
+        "reach": 0.6497093596208027,
+        "limit": 0.74
+      },
+      {
+        "requested": [
+          -0.14,
+          3.1825,
+          1.98
+        ],
+        "reach": 0.6497093596208033,
+        "limit": 0.74
+      }
+    ],
+    "handContacts": [
+      {
+        "target": [
+          0.4353532541629286,
+          3.65201055230163,
+          1.88
+        ],
+        "actual": [
+          0.43535325416292864,
+          3.6520105523016304,
+          1.8800000000000003
+        ],
+        "reachError": 6.304854800243424e-16,
+        "minSupportGap": 0.0030667846654112325,
+        "correction": 0.06012292850652179
+      },
+      {
+        "target": [
+          -0.43569746905815565,
+          3.635734807173502,
+          1.88
+        ],
+        "actual": [
+          -0.43569746905815554,
+          3.635734807173502,
+          1.8800000000000006
+        ],
+        "reachError": 6.753223014464259e-16,
+        "minSupportGap": 0.002874429642451215,
+        "correction": 0.042929196491870214
+      }
+    ]
+  },
+  "back": {
+    "phase": "aboard",
+    "direction": "inbound",
+    "ladderTime": 0,
+    "poseParameter": 0,
+    "cycleTime": 0,
+    "hatchOpen": 0,
+    "bodyPosition": [
+      0.4000000000000001,
+      3.2010747760603286,
+      0.7729820855727835
+    ],
+    "astronautRoot": [
+      0,
+      0,
+      0
+    ],
+    "bodyEuler": [
+      0.05,
+      0,
+      0,
+      "XYZ"
+    ],
+    "visible": true,
+    "contacts": [
+      {
+        "requested": [
+          0.511,
+          3.256,
+          0.73
+        ],
+        "reach": 0.6771270238498561,
+        "limit": 0.74
+      },
+      {
+        "requested": [
+          0.289,
+          3.256,
+          0.73
+        ],
+        "reach": 0.6771270238498561,
+        "limit": 0.74
+      }
+    ],
+    "handContacts": [
+      {
+        "target": [
+          0.29,
+          4.34,
+          0.65
+        ],
+        "actual": [
+          0.28999999999999987,
+          4.340000000000001,
+          0.65
+        ],
+        "reachError": 8.95090418262362e-16,
+        "minSupportGap": 0.6118326700856356,
+        "correction": 0
+      },
+      {
+        "target": [
+          0.22,
+          4.34,
+          0.65
+        ],
+        "actual": [
+          0.21999999999999992,
+          4.340000000000001,
+          0.6499999999999998
+        ],
+        "reachError": 9.192921513844874e-16,
+        "minSupportGap": 0.5634069678524174,
+        "correction": 0
+      }
+    ]
+  },
+  "errors": [],
+  "default": {
+    "phase": "flight",
+    "r4": false
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "chrome": "157.0.8103.79",
+  "node": "v22.22.0",
+  "r3": {
+    "vertexPositionsSHA256": "5cf40a65f488a6977d6164edc491066f2c75e77f8b91aaf40857b83c84862b56",
+    "vertices": 44439,
+    "bones": 11,
+    "weightError": 2.220446049250313e-16,
+    "groupScale": [
+      1,
+      1,
+      1
+    ],
+    "bodyScale": [
+      1,
+      1,
+      1
+    ],
+    "restJoints": [
+      [
+        {
+          "key": "hip",
+          "position": [
+            -0.111,
+            0.86,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "knee",
+          "position": [
+            0,
+            -0.37,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "ankle",
+          "position": [
+            0,
+            -0.37,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "shoulder",
+          "position": [
+            -0.216,
+            1.321,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "elbow",
+          "position": [
+            0,
+            -0.225,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ],
+      [
+        {
+          "key": "hip",
+          "position": [
+            0.111,
+            0.86,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "knee",
+          "position": [
+            0,
+            -0.37,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "ankle",
+          "position": [
+            0,
+            -0.37,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "shoulder",
+          "position": [
+            0.216,
+            1.321,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "elbow",
+          "position": [
+            0,
+            -0.225,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    ]
+  },
+  "r4": {
+    "vertexPositionsSHA256": "5cf40a65f488a6977d6164edc491066f2c75e77f8b91aaf40857b83c84862b56",
+    "vertices": 44439,
+    "bones": 12,
+    "weightError": 5.774199962615967e-8,
+    "groupScale": [
+      1,
+      1,
+      1
+    ],
+    "bodyScale": [
+      1,
+      1,
+      1
+    ],
+    "restJoints": [
+      [
+        {
+          "key": "hip",
+          "position": [
+            -0.111,
+            0.86,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "knee",
+          "position": [
+            0,
+            -0.37,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "ankle",
+          "position": [
+            0,
+            -0.37,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "shoulder",
+          "position": [
+            -0.216,
+            1.321,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "elbow",
+          "position": [
+            0,
+            -0.225,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ],
+      [
+        {
+          "key": "hip",
+          "position": [
+            0.111,
+            0.86,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "knee",
+          "position": [
+            0,
+            -0.37,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "ankle",
+          "position": [
+            0,
+            -0.37,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "shoulder",
+          "position": [
+            0.216,
+            1.321,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "key": "elbow",
+          "position": [
+            0,
+            -0.225,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    ]
+  }
+}

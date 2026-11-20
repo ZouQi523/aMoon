@@ -1,0 +1,10 @@
+/web-release/
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.bundle
+/docs/independent-eagle/r4/**/audit/
+/docs/independent-eagle/r4/movie-frames/
+/docs/independent-eagle/r4/evidence/

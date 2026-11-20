@@ -1,0 +1,8 @@
+Independent front cabin geometry, materials and generator: CC0 1.0 Universal.
+To the extent possible under law, the authors waive copyright and related rights
+in these newly authored files. https://creativecommons.org/publicdomain/zero/1.0/
+
+These files were built from blank using public NASA historical facts and references.
+They do not incorporate A11D/print-kit geometry, tracing, measurements or textures.
+Reference list and approximations: references/independent-eagle/references.json.
+NASA reference/context assets retain their original status; no NASA endorsement.

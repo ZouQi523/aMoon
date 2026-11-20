@@ -1,0 +1,96 @@
+{
+  "scope": "R2 independently authored additions; no NASA mesh or print-kit input",
+  "sources": [
+    {
+      "title": "Worldwide Spacecraft Crew Hatch History",
+      "url": "https://ntrs.nasa.gov/citations/20100027421",
+      "download": "https://ntrs.nasa.gov/api/citations/20100027421/downloads/20100027421.pdf",
+      "pages": "printed13-14, section1.4.4, figures1.4.4-a/b",
+      "rights": "NTRS catalog: Public Use Permitted",
+      "source_limit": "This is the 2009 hatch-history compilation, not the full LM-5 Handbook. Figures cite LM-5 Operations Handbook 15June1969.",
+      "facts": [
+        "Forward hatch inward to crew right; overhead hatch inward.",
+        "Forward/aft structural layout references."
+      ]
+    },
+    {
+      "title": "Apollo lunar descent and ascent trajectories",
+      "url": "https://ntrs.nasa.gov/citations/19700024568",
+      "report": "NASA TM X-58040",
+      "figure": "Figure4, printed5; ALSJ mirror PDF page6",
+      "original_url": "https://www.nasa.gov/wp-content/uploads/static/history/alsj/nasa58040.pdf",
+      "original_url_status": "404 at verification",
+      "working_mirror": "https://apollojournals.org/alsj/nasa58040.pdf",
+      "rights": "NTRS: Work of the US Gov. Public Use Permitted.",
+      "facts": [
+        "Two window panes form aiming device. Zero relative to forward body Z axis.",
+        "Figure4 uses a schematic lower horizontal cross at40deg, vertical0-60 and lateral10deg marks. External callout arrow/text is not a window marking."
+      ]
+    },
+    {
+      "title": "Apollo11 ALSJ landing transcript/commentary",
+      "url": "https://www.nasa.gov/wp-content/uploads/static/history/alsj/a11/a11.landing.html",
+      "rights": "Eric M. Jones commentary copyrighted; factual consultation only, no prose or image copied into model",
+      "facts": [
+        "CDR double-paned window has matching graduated vertical and horizontal marks."
+      ]
+    },
+    {
+      "title": "Apollo Lunar Landing Experience Report - Eppler",
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/06/eppler-slides-apollo-lunar-landing-experience-report-20070-r4.pdf",
+      "page": "slide38",
+      "limit": "Diagram and displayed artifact-photo layouts differ: artifact lower cross at50 versus TM schematic40. Flight-unit version not certified."
+    },
+    {
+      "title": "NASA69-H-134",
+      "url": "https://apollojournals.org/alsj/a11/ap11-69-H-134.jpg",
+      "use": "Reference for main-instrument glare shield only; no photograph used as a surface texture."
+    },
+    {
+      "title": "NASA69-H-136",
+      "url": "https://apollojournals.org/alsj/a11/ap11-69-H-136.jpg",
+      "use": "Reference for broad low engine cover and separate overhead hatch; equipment massing remains approximate."
+    },
+    {
+      "title": "NASA SP-4225 diagram16",
+      "url": "https://www.nasa.gov/history/SP-4225/diagrams/apollo/apollo-diagram-16.htm",
+      "limit": "1972 notebook: common structure only, no later mission-specific equipment asserted."
+    },
+    {
+      "title": "NASA SP-4225 diagram17",
+      "url": "https://www.nasa.gov/history/SP-4225/diagrams/apollo/apollo-diagram-17.htm",
+      "limit": "1972 notebook common structure only."
+    },
+    {
+      "title": "Grumman LM News Reference",
+      "url": "https://www.apollojournals.org/alsj/LM04_Lunar_Module_ppLV1-17.pdf",
+      "pages": "LV-5/6",
+      "facts": [
+        "Midsection floor step18in; protective cylindrical engine cover.",
+        "Overhead hatch33in; tunnel32in diameter,16in length."
+      ],
+      "limit": "Later reference, common structural dimensions; exact LM-5 implementation unverified."
+    }
+  ],
+  "authored_approximations": [
+    "R2 hinge moves to -X, which is screen-right looking forward +Z. Corrected CDR station label is +X; both original eye-coordinate positions are retained.",
+    "Frame return depth120mm and inboard hinge setback chosen for measured rendering clearance; not certified manufacturing dimensions.",
+    "LPD nominal angular rays use body+Z forward, +Y up, screen-right=-X; forward-lean eye [0.52,1.64,0.50]m is authored and distinct from unchanged R1 standing eyes.",
+    "LPD has0-60 vertical labels, two nominal horizontal rows0/40 and laterals +/-10. Labels0/40 shifted above cross line for readability. Stroke font independently authored. No DSKY/autopilot linkage.",
+    "Pane ink on inboard pane surfaces at offsets-50.2/-13.2mm; physically separated37mm and registered by ray-plane intersection from the same eye.",
+    "Rear deck, cover overall width/height, box equipment, body transition and glare-shield shape are approximate masses; not a complete detailed LM-5 interior.",
+    "Full EVA rig and animation remain unchanged. Clearances use an explicitly bounded box proxy and discrete triangle sweep."
+  ],
+  "reference_sha256": {
+    "hatches.pdf": "decb5ac300b7f2fb6a93df314cccc8f7c26ce9f1c8e135dd4c6691c1083853be",
+    "lpd.pdf": "d58247ca69427c6a7139adbfba365fdb9a4354e90dced55d9329b313eff169d6",
+    "eppler.pdf": "969e58c8e47d791ab69bb1d53d46f7112edf10088752af4b77ba5c4eb9ddfd72",
+    "69-H-134.jpg": "b851a1d0e20ea309beec4a33454d8b70e9923e2c3553d9da2d9275368665abb9",
+    "69-H-136.jpg": "876f65469a32d5f3bd7655acbc8183933e246f0143769c92d67704947013354e"
+  },
+  "known_envelope_limit": {
+    "source_midsection_description": "54 in deep, about5ft high, elliptical minor axis about56in (LM04 LV-5)",
+    "authored_current_envelope": "rear box massing1.84m wide,1.65m high,1.15m deep, with low engine-cover and true tunnel",
+    "status": "APPROXIMATE: source elliptical profile/orientation not reconstructed or dimensionally certified; no claim of full rear cabin completion"
+  }
+}
