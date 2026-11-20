@@ -74,7 +74,7 @@
    if(railBlend>0){for(let k=0;k<3;k++)target[k]=T.MathUtils.lerp(planeTarget[k],target[k],railBlend);arm(i,world(target));H.updateWorldMatrix(true,true);}
    const actual=H.worldToLocal(A.limbs[i].grip.getWorldPosition(new T.Vector3()));handContacts.push({target,actual:actual.toArray(),reachError:actual.distanceTo(v(target)),minSupportGap:minGap,correction});
   }H.updateWorldMatrix(true,true);q.museumSuit.update(1,true);
-  const views={section:[[3.6,4.35,1.55],[0,3.9,1.5],49],inside:[[.8,4.65,-.1],[0,3.9,1.45],74],outside:[[2.8,4.8,4.8],[0,3.95,1.55],48],porch:[[2.7,4.5,3.8],[0,3.7,1.95],45]};const [eye,target,fov]=views[camera];q.camera.position.copy(world(eye));q.camera.up.set(0,1,0);q.camera.lookAt(world(target));q.camera.fov=fov;q.camera.aspect=innerWidth/innerHeight;q.camera.updateProjectionMatrix();q.camera.updateMatrixWorld(true);q.renderer.render(q.scene,q.camera);
+  const views={section:[[3.6,4.35,1.55],[0,3.9,1.5],49],inside:[[-.35,4.9,.2],[0,3.65,1.6],74],outside:[[2.8,4.8,4.8],[0,3.95,1.55],48],porch:[[2.7,4.5,3.8],[0,3.7,1.95],45]};const [eye,target,fov]=views[camera];q.camera.position.copy(world(eye));q.camera.up.set(0,1,0);q.camera.lookAt(world(target));q.camera.fov=fov;q.camera.aspect=innerWidth/innerHeight;q.camera.updateProjectionMatrix();q.camera.updateMatrixWorld(true);q.renderer.render(q.scene,q.camera);
   document.getElementById('r4status').textContent='舱口／平台 · '+(direction==='outbound'?'出舱':'返舱')+' · t='+(time/PLAY_RATE).toFixed(2)+' s · '+phase;
   document.getElementById('r4time').value=time;
  }
